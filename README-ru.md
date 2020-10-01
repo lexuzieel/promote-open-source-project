@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Open source promotion cheat sheet</h1>
+<h1 align="center">Шпаргалка: как продвигать open-source проект</h1>
 
 > This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
 
