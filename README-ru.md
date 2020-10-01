@@ -10,9 +10,9 @@
 
 <h1 align="center">Шпаргалка: как продвигать open-source проект</h1>
 
-> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
+> Эта шпаргалка описывает важные шаги, которые необходимы для продвижения своего open-source проекта наилучшим образом. Нажатием на каждый пункт его можно раскрыть, чтобы получить более подробную информацию.
 
-List of available languages:
+Список доступных языков:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -26,9 +26,9 @@ List of available languages:
 - [Català](./README-ca.md)
 - [Русский](./README-ru.md)
 
-A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
+Не видишь своего языка? Хочешь улучшить данную шпаргалку? [Мы рады твоей помощи](./CONTRIBUTING.md)!
 
-[A PDF version of this cheat sheet is available here.](./pdf/cheat-sheet.pdf)
+[PDF версия этой данной шпаргалки доступна по этой ссылке.](./pdf/cheat-sheet.pdf)
 
 ## 1. 🎢 Preparation step
 
